@@ -42,12 +42,7 @@ The above command will start an expo development server through which we can con
 
 <br>
 
-### Downloads APK
 
-This app is available in `APK` format. You can [download it here](https://drive.google.com/file/d/1quB_Ji6U5I0M4RKZQFJt5WI2Uf5_jEFs/view?usp=drive_link).
-
-> [!WARNING]
-> This APK is currently under development only for Android phones and the view is not responsive to all phones.
 
 <br>
 
